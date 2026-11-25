@@ -1,0 +1,27 @@
+output:
+Enter your name: Sharuga
+Enter your age: 19
+Enter your daily study hours: 5
+Enter your stress level (1-10): 4
+Enter your sleep hours: 7
+
+output:
+===================================
+        NEUROHIVE AI SYSTEM
+===================================
+
+--- NEUROHIVE ANALYSIS ---
+
+Name: Sharuga
+Age: 19
+
+Study Status: Good
+Sleep Status: Healthy
+Stress Status: Moderate Stress
+
+NEUROHIVE Score: 60 / 80
+Recommendation: Your routine is moderate. Improve sleep and study consistency.
+
+===================================
+       ANALYSIS COMPLETED
+===================================
